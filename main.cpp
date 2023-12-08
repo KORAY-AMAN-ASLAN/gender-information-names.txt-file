@@ -32,7 +32,6 @@ int main() {
 bool isMale(const std::string& personalNumber) {
     // Check if the string has at least 9 characters
     if (personalNumber.length() < 9) {
-        // Handle invalid input if the string is too short
         return false;
     }
 
@@ -56,6 +55,6 @@ void processFile(const std::string& inputFilename, const std::string& outputFile
 
         outputFile << lastname << " " << firstname;
         outputFile << (isMale(personalNumber) ? " [M]" : " [K]") << std::endl;
-        outputFile << address << std::endl << std::endl; // Add an extra newline for spacing
+        outputFile << address << std::endl << std::endl;
     }
 }
