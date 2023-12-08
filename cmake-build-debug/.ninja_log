@@ -1,0 +1,15 @@
+# ninja log v5
+0	940	7237084563909136	CMakeFiles/readfile.dir/main.cpp.obj	b08c40c76cbd717f
+942	1072	7237084565205683	readfile.exe	cec836c8b0ddd52f
+4	882	7237085404399989	CMakeFiles/readfile.dir/main.cpp.obj	b08c40c76cbd717f
+883	1015	7237085405686545	readfile.exe	cec836c8b0ddd52f
+6	764	7237086425047361	CMakeFiles/readfile.dir/main.cpp.obj	b08c40c76cbd717f
+765	891	7237086426274640	readfile.exe	cec836c8b0ddd52f
+3	675	7237087972600941	CMakeFiles/readfile.dir/main.cpp.obj	b08c40c76cbd717f
+675	799	7237087973806125	readfile.exe	cec836c8b0ddd52f
+3	642	7237088564619651	CMakeFiles/readfile.dir/main.cpp.obj	b08c40c76cbd717f
+644	754	7237088565699576	readfile.exe	cec836c8b0ddd52f
+4	644	7237089221914851	CMakeFiles/readfile.dir/main.cpp.obj	b08c40c76cbd717f
+645	754	7237089222993481	readfile.exe	cec836c8b0ddd52f
+4	632	7237091340813517	CMakeFiles/readfile.dir/main.cpp.obj	b08c40c76cbd717f
+633	751	7237091341960379	readfile.exe	cec836c8b0ddd52f
